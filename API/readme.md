@@ -1,1 +1,1 @@
-[<img src="api.svg">](https://s0er.ru/)
+<img src="./api.svg" />
